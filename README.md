@@ -1,10 +1,11 @@
 > 哀吾生之須臾，羨長江之無窮。挾飛仙以遨遊，抱明月而長終。
 
-### Bo Pang :smile::face_with_thermometer:
+### [Bo Pang](https://www.linkedin.com/in/bo-pang-344225292/) :grin::face_with_thermometer:
 
-* :school: 2019-2023 BS. ECEZJU|UIUC  => 2023-2025 MS. ECE Georgia Tech
-* :musical_note:  running and music
-* :cat2: Have a handsome AmericanShorthair cat.
+* :school:  2019-2023 BS. ECE ZJU|UIUC  => 2023-2025 MS. ECE Georgia Tech
+* :musical_note:  Love exercising and music ([Eason Chan](https://www.youtube.com/watch?v=UdWlBBqiC7I) is my favorate singer)
+* :cat2:  Have a handsome AmericanShorthair cat
+* :camera:  Enjoy photograph and traveling 
 * :email: bopang314@gmail.com
 
 <!--
