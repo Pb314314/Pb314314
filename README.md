@@ -1,4 +1,11 @@
-### Hi there 👋
+> 哀吾生之須臾，羨長江之無窮。挾飛仙以遨遊，抱明月而長終。
+
+### Bo Pang :smile::face_with_thermometer:
+
+* :school: 2019-2023 BS. ECEZJU|UIUC  => 2023-2025 MS. ECE Georgia Tech
+* :musical_note:  running and music
+* :cat2: Have a handsome AmericanShorthair cat.
+* :email: bopang314@gmail.com
 
 <!--
 **Pb314314/Pb314314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
